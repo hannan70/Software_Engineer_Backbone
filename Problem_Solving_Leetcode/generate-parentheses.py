@@ -1,0 +1,3 @@
+def generateParenthesis(n):
+    stack = []
+    

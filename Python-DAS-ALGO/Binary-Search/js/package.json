@@ -1,0 +1,12 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Binary-Search.js",
+  "scripts": {
+    "start": "node Binary-Search.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
